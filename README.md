@@ -1,6 +1,12 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Welcome%20to%20DevChaeyoung's%20Github👋&textBg=false&fontSize=40)
 
-## 💻 DEV's log 💻
+## 😄Intro
+
+Hi, This site is that Let me introduce Devchaeyoung's journey✈️
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devchaeyoung&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+## 💻 DEV's log
 
 <div style="display:flex; flex-direction:row;">
     <a href="https://velog.io/@xiu_8">
@@ -13,7 +19,7 @@
     </a>
 </div>
 
-## 📞 Contact 📞
+## 📞 Contact
 
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:chaemaa00@gmail.com">
